@@ -19,7 +19,7 @@ function ageChecker(age) {
   if (age > 19) {
     return "Sup gramps!"
   } else if (age > 12 && age < 20) {
-    return "Sup teeny!" 
+    return "Sup teeny!"
   } else {
     return "Sup youngin!"
   }
